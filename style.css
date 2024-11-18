@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background: beige;
+    text-align: left;
+    @font-face {
+        font-family:'ark';
+        src: url('https://github.com/TakWolf/ark-pixel-font');
+        font-style: normal;
+        font-weight: normal;
+        }
+}
