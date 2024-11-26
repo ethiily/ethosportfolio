@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: beige;
-    text-align: center;  
+    text-align: left;  
     @font-face {
         font-family:'ark';
         src: url('https://github.com/TakWolf/ark-pixel-font');
